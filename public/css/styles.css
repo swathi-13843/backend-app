@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .row {
     display: flex;
     /* justify-content: space-around; */
@@ -15,4 +16,23 @@
 }
 .footer{
     background-color: yellow;
+=======
+.row {
+    display: flex;
+    /* justify-content: space-around; */
+    flex-wrap: wrap;
+}
+.box{
+    margin: 5px;
+    padding: 5px;
+    border:1px solid gray;
+    border-radius: 5px;
+    
+}
+.header{
+    background-color: rgb(12, 181, 184);
+}
+.footer{
+    background-color: yellow;
+>>>>>>> dc3db8719a2fef1dbcd15cab215eb9aec4a6a66f
 }
